@@ -1,6 +1,7 @@
-//Name:
-//Assignment Number:HW3
-//DESCRIPTION
+/*NAME:Were Vincent
+*DATE: 4/03/2021
+
+                       //DESCRIPTION
 /*
  * The project includes defining a class named Smartphone that 
  * Computes the battery life depending on the phone settings such ss

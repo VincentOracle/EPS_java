@@ -1,5 +1,5 @@
-/*NAME:
- * ASSIGNMENT NUMBER:HW2
+/*NAME:Were Vincent
+*DATE: 4/03/2021
  * NET ID:
  *         DESCRIPTION
  * The project involves drfining a class named Elements with a constructor 

@@ -1,6 +1,6 @@
 
-//Name:
-//Assignment Number:HW1
+/*NAME:Were Vincent
+*DATE: 4/03/2021
 //NET ID:
 /*
 The assignment involves creating a class Named Person that returns the 
